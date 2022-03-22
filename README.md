@@ -1,6 +1,11 @@
 ### Hi! My Name is Tomás 👋
 ![banner](https://user-images.githubusercontent.com/101755719/159076004-97cc0d18-0466-4b1b-885c-60728384cf76.png)
 
+You Can find me:
+
+-IG
+
+-TW
 
 <!--
 **TommyGrote/TommyGrote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
