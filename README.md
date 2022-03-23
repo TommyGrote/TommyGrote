@@ -1,6 +1,4 @@
-### Hello, my name is Tomás 👋, I live in Argentina and I am 19 years old!
-I hope you like my profile and projects!
-You are more than welcome to contact me on my social networks!. See You!
+
 ![banner](https://user-images.githubusercontent.com/101755719/159600332-5d84c428-0175-4f5b-8dbf-cefa77b47f47.png)
 ![Second Banner](https://user-images.githubusercontent.com/101755719/159600324-3c07c1d6-d9e1-4fe0-a1ed-a97a962009bd.png)
 
