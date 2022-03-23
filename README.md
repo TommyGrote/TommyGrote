@@ -3,7 +3,6 @@
 ![Second Banner](https://user-images.githubusercontent.com/101755719/159600324-3c07c1d6-d9e1-4fe0-a1ed-a97a962009bd.png)
 
       𝑺𝒐𝒄𝒊𝒂𝒍 𝑴𝒆𝒅𝒊𝒂 (𝑳𝒊𝒏𝒌𝒔):
-
 - 𝑰𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎: https://www.instagram.com/tommy.grote/  //  https://www.instagram.com/showys.ok/
   
 - 𝑳𝒊𝒏𝒌𝒆𝒅𝒊𝒏: https://www.linkedin.com/in/tomas-grote-porfilio-88a5b2234/
